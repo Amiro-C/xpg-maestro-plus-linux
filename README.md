@@ -41,7 +41,7 @@ Reverse-engineered via USB packet capture (`VID: 0x125f`, `PID: 0x7601`), this l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Amiro-C/xpg-maestro-plus-linux
    cd xpg-maestro-plus-linux
    ```
 2. Run the installation script:
@@ -53,7 +53,7 @@ Reverse-engineered via USB packet capture (`VID: 0x125f`, `PID: 0x7601`), this l
 
 1. Clone the repository and build the package:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Amiro-C/xpg-maestro-plus-linux
    cd xpg-maestro-plus-linux
    makepkg -si
    ```
